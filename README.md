@@ -21,7 +21,7 @@ I'm a passionate software developer dedicated to creating impactful, user-friend
 |                    | Django         | :star::star:☆☆☆☆        |
 | **Tools**          | Git/GitHub     | :star::star::star::star:☆ |
 |                    | VS Code        | :star::star::star::star::star: |
-|                    | Figma          | :star::star::star:☆☆☆    |
+|                    | Jira           | :star::star::star:☆☆☆    |
 
 :bar_chart: **GitHub Stats**
 
