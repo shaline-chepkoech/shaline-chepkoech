@@ -25,7 +25,7 @@ I'm a passionate software developer dedicated to creating impactful, user-friend
 
 :bar_chart: **GitHub Stats**
 
-![Shaline's Github Stats]([https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=shaline-chepkoech&show_icons=true&theme=radical))
+![Shaline's Github Stats](https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=shaline-chepkoech&show_icons=true&theme=radical))
 
 <!--
 **shaline-chepkoech/shaline-chepkoech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
